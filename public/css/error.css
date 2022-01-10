@@ -1,0 +1,13 @@
+
+.error_page {
+	padding: 100px 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+}
+
+.error_page h1 {
+	padding: 20px 20px;
+	text-align: center;
+}
